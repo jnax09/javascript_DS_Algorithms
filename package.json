@@ -1,0 +1,11 @@
+{
+  "name": "javascript_ds_algorithms",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Singbo",
+  "license": "MIT"
+}
